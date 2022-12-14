@@ -12,16 +12,15 @@ Neste grupo estão as funções referentes as nescecidades dos artistas
 
 ## .
 
-**Grupo de código dos Artistas** 
+**Grupo de código do Gerente** 
 
-Neste grupo estão as funções referentes as nescecidades dos artistas
-
-## .
-
-**Grupo de código dos Artistas**
-
-Neste grupo estão as funções referentes as nescecidades dos artistas
+Neste grupo estão as funções referentes as nescecidades do gerente
 
 ## .
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+**Grupo de código dos Clientes**
+
+Neste grupo estão as funções referentes as nescecidades dos clientes
+
+## .
+
